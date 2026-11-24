@@ -2,7 +2,7 @@ import os
 
 MAX_CHARS = 200
 
-JOKE = "I got a job at a calendar factory, but they fired me for taking a couple of days off."
+JOKE = "I tried dating a broom, but I just couldn't sweep her off her feet."
 
 
 def write_entry(text, path="/output/entry.txt"):
